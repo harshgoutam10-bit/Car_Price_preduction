@@ -66,5 +66,4 @@ Car_Price_Prediction/
 └── README.md
 ## 📊 Actual vs Predicted Car Prices
 
-![Actual vs Predicted Car Prices]
-(actual_vs_predicted.png)
+<img src="./actual_vs_predicted.png" alt="Actual vs Predicted Car Prices" width="700">
