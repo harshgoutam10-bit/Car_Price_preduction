@@ -64,3 +64,6 @@ Car_Price_Prediction/
 ├── Car_Price_Prediction.ipynb
 ├── car data.csv
 └── README.md
+## 📊 Actual vs Predicted Car Prices
+
+![Actual vs Predicted Car Prices](actual_vs_predicted.png)
